@@ -6,6 +6,8 @@
 
 [Statistics for Data Science](https://youtu.be/xxpc-HPKN28)
 
+[Statistics 110: Probability by Harvard](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
 #### Linear Algebra
 
 [Linear Algebra by Khan Academy](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0)
