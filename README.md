@@ -33,3 +33,10 @@ Given below are the links for some of the resources where you can learn Mathemat
 [Statquest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 
 [3 Blue 1 Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+
+### What to do next?
+
+Get started with Machine Learning now. Crework gives you access to organized free resources to get started with ML. Just go to the repository mentioned below.
+
+[Free Machine Learning Resources](https://github.com/Crework/ML-Resources)
