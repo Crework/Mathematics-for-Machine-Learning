@@ -37,6 +37,6 @@ Given below are the links for some of the resources where you can learn Mathemat
 
 ### What to do next?
 
-Get started with Machine Learning now. Crework gives you access to organized free resources to get started with ML. Just go to the repository mentioned below.
+Get started with Machine Learning now. Crework gives you access to organized free resources to get started with ML. Just go to the repository mentioned below:
 
 [Free Machine Learning Resources](https://github.com/Crework/ML-Resources)
